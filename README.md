@@ -1,4 +1,4 @@
-- 👋 Hi guys, I’m @Laaaze
+## 👋 Hi guys, I’m @Laaaze
 
 - 🌱 I’m currently learning Python
 
